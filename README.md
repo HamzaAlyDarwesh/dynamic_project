@@ -162,3 +162,8 @@ john.doe@astudio.com
 - pass:
 gt^uoE4$
 
+## note:
+You can find dump database on main directory with name:
+dump-dynamic_project-202503031042.sql
+
+
